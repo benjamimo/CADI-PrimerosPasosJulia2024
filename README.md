@@ -25,7 +25,7 @@ El taller se llevará a cabo de manera **virtual** del **15 al 19 de enero de 20
 ## Grabaciones
 Las grabaciones están en el siguiente folder compartido.  Para tener acceso será necesario ingresar con su cuenta institucional.
 
-
+https://tecmx-my.sharepoint.com/:f:/g/personal/hmedel_tec_mx/EnAy3hdjheZDp6qVe3Pio48BQ3P4200FvFcud_xjyzMn1w?e=N0PPJg
 
 ## Navegación en el repositorio
 El repositorio está organizado de la siguiente manera:
